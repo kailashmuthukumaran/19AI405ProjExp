@@ -1,4 +1,4 @@
-# Implement a Sudoku Solver From Scratch
+# Implement a Sudoku Solver From Scratch.
 
 ## Aim:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
